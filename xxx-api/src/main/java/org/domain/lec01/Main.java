@@ -1,4 +1,4 @@
-package org.api;
+package org.domain.lec01;
 
 import org.domain.Domain;
 
